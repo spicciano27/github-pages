@@ -2,5 +2,4 @@
 title: Welcome to my blog
 ---
 
-# My Website
-### More info below
+### See blog posts linked below
